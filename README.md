@@ -6,7 +6,7 @@ VisionGuard is a deep learning web application that classifies industrial steel 
 ## 🌐 Live Demo
 
 ## 🖥️ Application Preview
-![VisionGuard Dashboard](screenshots/visionguard-dashboard.png)
+![VisionGuard Dashboard](visionguard-dashboard.png.png)
 
 **[Click here to open VisionGuard](https://aakgrd3tezzatmdhaovad6.streamlit.app)**
 
